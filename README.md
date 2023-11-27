@@ -25,6 +25,6 @@
 ```
 
 #### А ещё я умею создавать списки
-*[Мой фейбук](https://facebook.com)
-*[Мой телеграм](t.me@pchel)
-*[Мой инстаграм](https://instagram.com)
+**[Мой фейбук](https://facebook.com)**
+**[Мой телеграм](t.me@pchel)**
+**[Мой инстаграм](https://instagram.com)**
